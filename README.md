@@ -2,6 +2,7 @@
 # tests
 
 <!-- badges: start -->
+[![R build status](https://github.com/benmarwick/tests/workflows/R-CMD-check/badge.svg)](https://github.com/benmarwick/tests/actions)
 <!-- badges: end -->
 
 The goal of tests is to ...

@@ -3,3 +3,4 @@
 ^devhistory\.R$
 ^LICENSE\.md$
 ^CODE_OF_CONDUCT\.md$
+^\.github/workflows/R-CMD-check\.yaml$
