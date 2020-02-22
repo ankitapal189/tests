@@ -15,3 +15,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/benmarwick/tests
+BugReports: https://github.com/benmarwick/tests/issues
