@@ -9,11 +9,10 @@ Description: More about what it does (maybe more than one line)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Imports: 
-    dplyr (>= 0.8.4)
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat (>= 2.1.0)
 VignetteBuilder: knitr
 URL: https://github.com/benmarwick/tests
 BugReports: https://github.com/benmarwick/tests/issues

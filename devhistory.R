@@ -8,13 +8,20 @@ usethis::use_readme_md()
 
 usethis::use_code_of_conduct()
 
+# delete hello.Rd
 # add a function
 # place curser in function, the option+command+shift+r (Code -> Insert roxygen skeleton) to add roxygen skeleton
+# https://r-pkgs.org/man.html
 
 formatR::tidy_dir("R")
 lintr::lint_package()
 
-devtools::document()
+# click 'install and restart' often during development
+
+# add tests https://r-pkgs.org/tests.html
+usethis::use_testthat()
+# make function file active, then run usethis::use_test()
+devtools::test()
 
 # make a commit in RStudio
 
