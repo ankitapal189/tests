@@ -14,6 +14,8 @@ usethis::use_code_of_conduct()
 formatR::tidy_dir("R")
 lintr::lint_package()
 
+devtools::document()
+
 # make a commit in RStudio
 
 usethis::use_github()
