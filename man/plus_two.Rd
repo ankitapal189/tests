@@ -7,7 +7,7 @@
 plus_two(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{an integer or double; any number}
 }
 \value{
 

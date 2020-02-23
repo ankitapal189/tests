@@ -12,7 +12,7 @@
 #' We can easily add images also, here is an irrelvant Numbat:
 #' ![](numbat.jpg "We can show images")
 #'
-#' @param x
+#' @param x an integer or double; any number
 #'
 #' @return
 #' @export
