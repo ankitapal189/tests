@@ -2,16 +2,26 @@
 % Please edit documentation in R/hello.R
 \name{plus_two}
 \alias{plus_two}
-\title{Title}
+\title{Adds two to any number}
 \usage{
 plus_two(x)
 }
 \arguments{
-\item{x}{any number}
+\item{x}{}
 }
 \value{
-a number
+
 }
 \description{
-Title
+We \emph{can} use markdown in roxy documentation.
+That is \strong{very} handy. It's easy to indicate \code{functions()}.
+Markdown tables, lists are also possible.
+See more about the markdown markup at the
+\href{http://commonmark.org/help}{Commonmark web site}.
+We can easily add images also, here is an irrelvant Numbat:
+\figure{numbat.jpg}{We can show images}
+}
+\examples{
+plus_two(1)
+
 }

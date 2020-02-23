@@ -17,3 +17,4 @@ VignetteBuilder: knitr
 URL: https://github.com/benmarwick/tests
 BugReports: https://github.com/benmarwick/tests/issues
 RoxygenNote: 7.0.2
+Roxygen: list(markdown = TRUE)

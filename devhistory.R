@@ -20,12 +20,18 @@ lintr::lint_package()
 
 # add tests https://r-pkgs.org/tests.html
 usethis::use_testthat()
-# make function file active, then run usethis::use_test()
+# make function file active, then run usethis::use_test() to add tests
+
+# run tests
 devtools::test()
+
+# continous testing
+testthat::auto_test_package()
 
 # make a commit in RStudio
 
 usethis::use_github()
 
+# add continuous integration
 usethis::use_github_actions()
 usethis::use_github_actions_badge()

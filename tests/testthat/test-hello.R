@@ -1,6 +1,8 @@
 test_that("plus_two works", {
 
-  output <- plus_two(2)
+  output2 <- plus_two(2)
+  outputminus2 <- plus_two(-2)
 
-  expect_equal(output, 4)
+  expect_equal(output2, 4)
+  expect_equal(outputminus2, 0)
 })
