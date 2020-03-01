@@ -3,8 +3,6 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/benmarwick/tests/workflows/R-CMD-check/badge.svg)](https://github.com/benmarwick/tests/actions)
-[![Travis build status](https://travis-ci.org/benmarwick/tests.svg?branch=master)](https://travis-ci.org/benmarwick/tests)
-[![CircleCI build status](https://circleci.com/gh/benmarwick/tests.svg?style=svg)](https://circleci.com/gh/benmarwick/tests)
 <!-- badges: end -->
 
 The goal of tests is to ...
