@@ -10,7 +10,7 @@ plus_two(x)
 \item{x}{an integer or double; any number}
 }
 \value{
-
+a number
 }
 \description{
 We \emph{can} use markdown in roxy documentation.

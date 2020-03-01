@@ -14,7 +14,7 @@
 #'
 #' @param x an integer or double; any number
 #'
-#' @return
+#' @return a number
 #' @export
 #'
 #' @examples
