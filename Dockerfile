@@ -14,4 +14,4 @@ RUN . /etc/environment \
   && sudo apt-get install libudunits2-dev -y \
   # build this compendium package
   && R -e "devtools::install('/tests', dep=TRUE)" \
-  && R -e "devtools::check('/tests')" \
+  && R -e "devtools::check('/tests')"
