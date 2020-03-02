@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/benmarwick/tests/workflows/R-CMD-check/badge.svg)](https://github.com/benmarwick/tests/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benmarwick/tests/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of tests is to ...
