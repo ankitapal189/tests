@@ -15,3 +15,4 @@ RUN . /etc/environment \
   # build this compendium package
   && R -e "devtools::install('/tests', dep=TRUE)" \
   && R -e "devtools::check('/tests')"
+
